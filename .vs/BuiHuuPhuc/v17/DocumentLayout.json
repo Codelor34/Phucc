@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE37268-B478-46C5-8215-DF2BC221EAF1}|BuiHuuPhuc\\BuiHuuPhuc.csproj|c:\\users\\nitro 5\\desktop\\buihuuphuc\\buihuuphuc\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE37268-B478-46C5-8215-DF2BC221EAF1}|BuiHuuPhuc\\BuiHuuPhuc.csproj|solutionrelative:buihuuphuc\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F70252-99E0-4866-93A6-89B77FD349D5}|Test\\Test.csproj|C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\test\\irepo\\iallrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F70252-99E0-4866-93A6-89B77FD349D5}|Test\\Test.csproj|solutionrelative:test\\irepo\\iallrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F70252-99E0-4866-93A6-89B77FD349D5}|Test\\Test.csproj|C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\test\\models\\huhucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F70252-99E0-4866-93A6-89B77FD349D5}|Test\\Test.csproj|solutionrelative:test\\models\\huhucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F70252-99E0-4866-93A6-89B77FD349D5}|Test\\Test.csproj|C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\test\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F70252-99E0-4866-93A6-89B77FD349D5}|Test\\Test.csproj|solutionrelative:test\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F70252-99E0-4866-93A6-89B77FD349D5}|Test\\Test.csproj|C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\test\\repository\\allrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F70252-99E0-4866-93A6-89B77FD349D5}|Test\\Test.csproj|solutionrelative:test\\repository\\allrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE37268-B478-46C5-8215-DF2BC221EAF1}|BuiHuuPhuc\\BuiHuuPhuc.csproj|C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\buihuuphuc\\views\\sinhvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EE37268-B478-46C5-8215-DF2BC221EAF1}|BuiHuuPhuc\\BuiHuuPhuc.csproj|solutionrelative:buihuuphuc\\views\\sinhvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F70252-99E0-4866-93A6-89B77FD349D5}|Test\\Test.csproj|C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\Test\\Migrations\\20240331112913_phuccc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F70252-99E0-4866-93A6-89B77FD349D5}|Test\\Test.csproj|solutionrelative:Test\\Migrations\\20240331112913_phuccc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\BuiHuuPhuc\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "BuiHuuPhuc\\Controllers\\SinhVienController.cs",
+              "ToolTip": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\BuiHuuPhuc\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "BuiHuuPhuc\\Controllers\\SinhVienController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T05:59:32.553Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IALLRepo.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\Test\\IRepo\\IALLRepo.cs",
+              "RelativeDocumentMoniker": "Test\\IRepo\\IALLRepo.cs",
+              "ToolTip": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\Test\\IRepo\\IALLRepo.cs",
+              "RelativeToolTip": "Test\\IRepo\\IALLRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T05:54:51.234Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HuhuContext.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\Test\\Models\\HuhuContext.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\HuhuContext.cs",
+              "ToolTip": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\Test\\Models\\HuhuContext.cs",
+              "RelativeToolTip": "Test\\Models\\HuhuContext.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwBcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T06:53:31.1Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\Test\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\Test\\Models\\SinhVien.cs",
+              "RelativeToolTip": "Test\\Models\\SinhVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T11:31:02.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240331112913_phuccc.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\Test\\Migrations\\20240331112913_phuccc.cs",
+              "RelativeDocumentMoniker": "Test\\Migrations\\20240331112913_phuccc.cs",
+              "ToolTip": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\Test\\Migrations\\20240331112913_phuccc.cs",
+              "RelativeToolTip": "Test\\Migrations\\20240331112913_phuccc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T11:29:13.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\BuiHuuPhuc\\Views\\SinhVien\\Create.cshtml",
+              "RelativeDocumentMoniker": "BuiHuuPhuc\\Views\\SinhVien\\Create.cshtml",
+              "ToolTip": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\BuiHuuPhuc\\Views\\SinhVien\\Create.cshtml",
+              "RelativeToolTip": "BuiHuuPhuc\\Views\\SinhVien\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T11:20:47.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllRepo.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\Test\\Repository\\AllRepo.cs",
+              "RelativeDocumentMoniker": "Test\\Repository\\AllRepo.cs",
+              "ToolTip": "C:\\Users\\NITRO 5\\Desktop\\BuiHuuPhuc\\Test\\Repository\\AllRepo.cs",
+              "RelativeToolTip": "Test\\Repository\\AllRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAlwBEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T05:54:21.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
